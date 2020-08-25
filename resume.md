@@ -38,7 +38,7 @@ Full Stack DHIS2 developer and topic expert in the Swiss consulting agency for i
 
 ## Education
 
-### <span>MSc Information Sciences, Vrije Universiteit, Amsterdam, The Netherlands</span> <span>2019 -- 2020</span>
+### <span>MSc Information Sciences, Vrije Universiteit, Amsterdam, The Netherlands </span> <span>2019 -- 2020</span>
 
   - Service oriented design
   - Software architecture
