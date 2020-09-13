@@ -27,7 +27,7 @@ Independent end-to-end system specialist of DHIS2
 
 ### <span>Project Associate, Swiss Tropical and Public Health Institute</span> <span>Jul 2015 -- Oct 2017</span>
 
-Software developer, DHIS2 expert in the Swiss consulting agency for international health
+Software/DHIS2 developer in the Swiss Centre for International Health
 
  - Develop, manage and integrate health information systems and tools
  - Consulting on national CRVS IT systems integrations with DHIS2
