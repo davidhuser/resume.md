@@ -17,21 +17,26 @@ Health information systems engineer and DHIS2 expert with 5+ years experience in
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
+
+### <span>Senior Solutions Engineer, BAO Systems, Washington D.C.</span> <span>Oct 2020 -- present</span>
+
 ### <span>Solutions Engineer, BAO Systems, Washington D.C.</span> <span>May 2016 -- Jul 2019</span>
 
 Independent end-to-end system specialist of DHIS2
 
  - Technology lead for a high-volume event-based implementation of DHIS2, strengthened real-time analytics and surveillance stability
- - Design and development of DHIS2 apps, ODK-based data collection platform interoperability, legacy system migrations, and quality monitoring web services
- - High-level design of a mortality surveillance platform, design and implementation of Verbal Autopsy integration
+ - Designed and developed DHIS2 apps, ODK-based data collection platform interoperability, legacy system migrations, and quality monitoring web services
+ - Delivered a high-level design of a mortality surveillance platform
+ - Troubleshot complex problems as part of customer support
 
 ### <span>Project Assistant, Swiss Tropical and Public Health Institute, Basel</span> <span>Jul 2015 -- Oct 2017</span>
 
 Software/DHIS2 developer in the Swiss Centre for International Health (assoc. University of Basel)
 
- - Piloting of DHIS2 in project with Ministry of Health in Egypt
- - Consulting on national CRVS IT systems integrations with DHIS2 in South Asia
- - System administration & development of basic cloud provision workflow for DHIS2 instances
+ - Consulted on national civil registration and vital statistics IT systems integration with DHIS2 in South Asia
+ - Piloted DHIS2 in a project with the Ministry of Health in Egypt
+ - Developed basic cloud provision workflow for DHIS2 instances
+ - Conducted DHIS2 workshops within global health programs
 
 ## Skills
  
@@ -39,7 +44,7 @@ Software/DHIS2 developer in the Swiss Centre for International Health (assoc. Un
  
  **Product development:** project scoping and management; requirements engineering; software design and architecture documentation; wireframing
  
- **Soft skills:** mediating between tech experts and management; giving workshops and trainings; critical thinking; visual communication and technical writing; customer support;
+ **Soft skills:** mediating between tech experts and management; giving workshops and trainings; critical thinking; visual communication and technical writing
  
  **Languages:** English (working proficiency); German (native); Italian & French (basic)
 
