@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Health information systems engineer and DHIS2 expert with 5+ years experience in software design, data engineering, open source, international NGOs and ICT for development in low- and middle-income countries. Proven ability to scope and deliver projects; solve meaningful problems with software; mediate between users, technology experts and business/management; and work productively while remote.
+Health information systems engineer and DHIS2 expert with 4+ years experience in software design, data engineering, open source, international NGOs and ICT for development in low- and middle-income countries. Proven ability to scope and deliver projects; solve meaningful problems with software; mediate between users, technology experts and business/management; and work productively while remote.
 
 
 ## Experience
