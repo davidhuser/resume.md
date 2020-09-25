@@ -40,7 +40,7 @@ Software/DHIS2 developer in the Swiss Centre for International Health (assoc. Un
 
 ## Skills
  
- **Data engineering:** Python programming; cloud computing; APIs & REST; PostgreSQL databases; Linux system administration; Javascript/React 
+ **Data engineering:** Python programming; cloud computing; APIs & REST; SQL databases (PostgreSQL, SQLite); Linux system administration; Javascript/React 
  
  **Product development:** project scoping and management; requirements engineering; software design and architecture documentation; wireframing
  
@@ -52,7 +52,7 @@ Software/DHIS2 developer in the Swiss Centre for International Health (assoc. Un
 
 ### <span>MSc Information Sciences, Vrije Universiteit, Amsterdam, The Netherlands </span> <span>2019 -- 2020</span>
 
-Courses: service oriented design; software architecture; knowledge organization; ICT4D; social web and data mining; interdisciplinary research methods; master thesis on humanitarian health information systems; GPA ?/9
+Courses: service oriented design; software architecture; knowledge organization; ICT4D; social web and data mining; interdisciplinary research methods; master thesis on humanitarian health information systems; GPA 8.1
 
 ### <span>BSc Computer Science, University of Applied Sciences Northwestern Switzerland</span> <span>2011 -- 2015</span>
 
