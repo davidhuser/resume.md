@@ -27,7 +27,7 @@ Independent end-to-end system specialist of DHIS2
  - Technology lead for a high-volume event-based implementation of DHIS2, strengthened real-time analytics and surveillance stability
  - Designed and developed DHIS2 apps, ODK-based data collection platform interoperability, legacy system migrations, and quality monitoring web services
  - Delivered a high-level design of a mortality surveillance platform
- - Troubleshot complex problems as part of customer support
+ - Troubleshot issues in the nexus of DHIS2 and systems/hosting as part of customer support
 
 ### <span>Project Assistant, Swiss Tropical and Public Health Institute, Basel</span> <span>Jul 2015 -- Oct 2017</span>
 
@@ -62,8 +62,8 @@ Specialization in Design and Management; GPA 4.8/6
 
  **dhis2-pocket-knife**: Command-line helper tools for system administration of DHIS2. Widely used and open source.
  
- **dhis2.py**: Production-level and light-weight Python library for DHIS2 and data engineering. Open-source.
+ **dhis2.py**: Production-level and light-weight Python library for DHIS2 and data engineering. Open source.
  
- **smartva-dhis2**: Glue software for Verbal Autopsy integration. Won *Commonwealth Digital Health Award* in 2018. Open-source.
- 
+ **smartva-dhis2**: Open source glue software for Verbal Autopsy integration. Won *Commonwealth Digital Health Award* 2018.
+
  **Kasadaka Weather Service**: Working prototype to provide voice-based weather forecasts via feature phone call for farmers in the Sahel based on Raspberry Pi, Django and weather APIs.
