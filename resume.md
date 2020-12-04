@@ -4,7 +4,6 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <davidhus@pm.me>
-- +41 79 740 63 41
 - [davidhuser.ch](https://davidhuser.ch)
 - Lucerne, Switzerland
 
