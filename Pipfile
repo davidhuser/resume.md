@@ -9,5 +9,3 @@ verify_ssl = true
 weasyprint = "*"
 markdown = "*"
 
-[requires]
-python_version = "3.7"

@@ -9,7 +9,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Health information systems engineer and DHIS2 expert with 4+ years experience in software design, data engineering, open source, international NGOs and ICT for development in low- and middle-income countries. Proven ability to scope and deliver projects; solve meaningful problems with software; mediate between users, technology experts and business/management; and work productively while remote.
+Health information systems engineer and DHIS2 expert with 5+ years experience in software design, data engineering, open source, international NGOs and ICT for development in low- and middle-income countries. Proven ability to scope and deliver projects; solve meaningful problems with software; mediate between users, technology experts and business/management; and work productively while remote.
 
 
 ## Experience
@@ -49,20 +49,16 @@ Software/DHIS2 developer in the Swiss Centre for International Health (assoc. Un
 
 ## Education
 
-### <span>MSc Information Sciences, Vrije Universiteit, Amsterdam, The Netherlands </span> <span>2019 -- 2020</span>
+### <span>MSc Information Sciences, Vrije Universiteit, Amsterdam, The Netherlands</span> <span>2019--2020</span>
 
-Courses: service oriented design; software architecture; knowledge organization; ICT4D; social web and data mining; interdisciplinary research methods; master thesis on humanitarian health information systems; GPA 8.1
+### <span>BSc Computer Science, University of Applied Sciences Northwestern Switzerland</span> <span>2011--2015</span>
 
-### <span>BSc Computer Science, University of Applied Sciences Northwestern Switzerland</span> <span>2011 -- 2015</span>
+## Projects & publications
 
-Specialization in Design and Management; GPA 4.8/6
-
-## Projects
-
- **dhis2-pocket-knife**: Command-line helper tools for system administration of DHIS2. Widely used and open source.
+Huser D., Bon A., Anifalaje A. (2021). Uncovering generative mechanisms of information use for project monitoring in humanitarian health management information systems.  *The Electronic Journal of Information Systems in Developing Countries.* [doi:10.1002/isd2.12184](https://doi.org/10.1002/isd2.12184)
  
- **dhis2.py**: Production-level and light-weight Python library for DHIS2 and data engineering. Open source.
+[dhis2-pocket-knife](https://github.com/davidhuser/dhis2-pk): Command-line helper tools for system administration of DHIS2
  
- **smartva-dhis2**: Open source glue software for Verbal Autopsy integration. Won *Commonwealth Digital Health Award* 2018.
-
- **Kasadaka Weather Service**: Working prototype to provide voice-based weather forecasts via feature phone call for farmers in the Sahel based on Raspberry Pi, Django and weather APIs.
+[dhis2.py](https://github.com/davidhuser/dhis2.py): Production-level and light-weight Python library for DHIS2 and data engineering.
+ 
+[smartva-dhis2](https://github.com/D4H-VA/smartva-dhis2): Open source glue software for Verbal Autopsy integration. Won *Commonwealth Digital Health Award* 2018.
